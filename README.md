@@ -5,6 +5,8 @@
 ## Analysis and Challenges
 ### Analysis of Outcomes Based on Launch Date  
 ### Analysis of Outcomes Based on Goals
+![Outcomes_vs_Goals](https://user-images.githubusercontent.com/100812515/158027050-9c4578e8-0580-4b81-a83b-23339c2bf125.png)
+
 ### Challenges and Difficulties Encountered
 ## Results
 - What are two conclusions you can draw about the Outcomes based on Launch Date?
